@@ -80,8 +80,8 @@
     "react-modal": "^3.5.1",
     "reactstrap": "^6.3.0",
     "rellax": "^1.6.2",
-    "socket.io": "^2.1.1",
-    "socket.io-client": "^2.1.1",
+    "socket.io": "^2.5.0",
+    "socket.io-client": "^2.5.0",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
